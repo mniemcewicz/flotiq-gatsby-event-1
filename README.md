@@ -228,4 +228,3 @@ Documentation for gatsby starters is [here](https://flotiq.com/docs/Universe/gat
 If you wish to talk with us about this project, feel free to hop on our [![Discord Chat](https://img.shields.io/discord/682699728454025410.svg)](https://discord.gg/FwXcHnX).
 
 If you found a bug, please report it in [issues](https://github.com/flotiq/flotiq-gatsby-event-1/issues).
-
